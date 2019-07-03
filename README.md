@@ -1,17 +1,17 @@
 # Lightning Opener
 
-Lets you open new panels lightening fast regardless of the loading time of your shell.
+Create new panes or windows super fast without pain (pun intended)
 
 ## Requirement
 
 - [tpm](https://github.com/tmux-plugins/tpm)
 
-## Install
+## Installation
 
 Add the following to `$HOME/.tmux.conf`
 
 ```
-set -g @plugin 'hitochan777/lightning-opener'
+set -g @plugin 'hitochan777/tmux-lightning-opener'
 ```
 
 ## Authors
@@ -20,5 +20,4 @@ set -g @plugin 'hitochan777/lightning-opener'
 
 ## License
 
-MIT
 MIT
