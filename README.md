@@ -14,6 +14,20 @@ Add the following to `$HOME/.tmux.conf`
 set -g @plugin 'hitochan777/tmux-lightning-opener'
 ```
 
+## Configurations
+
+- Horizontal split (Default `-`)
+
+```
+set -g @lightning_horiz_key "-"
+```
+
+- Vertical split (Default `|`)
+
+```
+set -g @lightning_vert_key "|"
+```
+
 ## Authors
 
 - Hitoshi Otsuki
